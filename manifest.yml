@@ -1,0 +1,6 @@
+---
+applications:
+- buildpack: https://github.com/Seanxy/kaku.git
+  host: kaku
+  name: kaku
+  memory: 512M
